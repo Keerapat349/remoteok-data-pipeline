@@ -58,3 +58,14 @@ Source: [Remote OK](https://remoteok.com)
 Original job URLs are preserved in the output dataset.
 
 This is a personal learning project and is not affiliated with Remote OK. Follow the source's applicable data usage terms.
+
+## Project Screenshots
+
+### Sample Dataset
+
+![Remote job dataset preview](screenshots/remoteok_dataset.png)
+
+### Pipeline Execution
+
+![Successful pipeline execution](screenshots/pipeline_result.png)
+
